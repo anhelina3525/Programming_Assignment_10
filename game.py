@@ -22,7 +22,7 @@ class Room:
 
     def __str__(self):
         """
-        Gives the string representation of a string.
+        Gives the string representation of a Room object.
         """
         return self.room_type
 
